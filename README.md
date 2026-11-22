@@ -94,6 +94,7 @@ OGL – WebGL-based visual effects.
 
 SmartBuild Hub is a web-based home construction management platform designed to simplify and digitize the traditional home-building process. It connects homeowners, contractors, architects, and suppliers through a unified platform, making construction project management more organized, transparent, and efficient.
 The platform helps homeowners submit construction requirements, explore design recommendations, connect with contractors, manage project budgets, and track construction progress.
+
 🛠️ Technologies Used
 --HTML5 – Structuring web pages and application content.
 --CSS3 – Styling and designing responsive interfaces.
@@ -104,6 +105,7 @@ The platform helps homeowners submit construction requirements, explore design r
 --SQLite3 – Database management and data storage.
 --VS Code – Development environment.
 ✨ Key Features
+
 --Homeowner Module – User registration, login, project requirements, and project tracking.
 --Contractor Module – Contractor registration, project browsing, and proposal submission.
 --Admin Dashboard – Managing users, projects, proposals, and complaints.

@@ -13,7 +13,7 @@
 🧠 Solved **100+ DSA** across coding platforms  
 🔥 **30+ day coding streak** · **70+ active coding days**
 
-Focused on **backend/full-stack engineering, DSA, competitive programming, AI-powered applications, and open source**.
+Focused on **backend/full-stack engineering, DSA, AI-powered applications, and open source**.
 
 ---
 
@@ -135,43 +135,44 @@ The platform helps homeowners submit construction requirements, explore design r
 
 ---
 
-### 🏨 Hostel Management System
+🥤 Spylt-Web
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
+Spylt-Web is a modern and visually engaging web application built using React and Tailwind CSS. The project focuses on creating an attractive user interface with smooth animations, interactive elements, and responsive layouts. It uses GSAP to deliver dynamic animations and enhance the overall user experience.
 
-Full-stack hostel management system for resident records, hostel operations, and administrative workflows.
+🛠️ Technologies Used
 
-- JWT authentication
-- Role-based access control
-- RESTful APIs
-- MongoDB data management
-- Render deployment
+--React 19 – Component-based UI development.
 
-[![View Code](https://img.shields.io/badge/View%20Code-1f6feb?style=flat-square&logo=github)](https://github.com/priyanshuguptacoder/hostelpriyanshu)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=render)](https://hostel-management-system-hqg0.onrender.com/)
+--Vite 8 – Fast development server and build tool.
+
+--Tailwind CSS 4 – Modern and responsive styling.
+
+--GSAP – Smooth animations and interactive effects.
+
+--@gsap/react – Integrating GSAP animations with React.
+
+--React Responsive – Handling responsive layouts across devices.
+
+--JavaScript (ES Modules) – Application logic and interactivity.
+
+✨ Key Features
+
+--Modern and visually appealing user interface.
+
+--Responsive design for different screen sizes.
+
+--Smooth animations using GSAP.
+
+--Interactive UI elements and transitions.
+
+--Reusable React components.
+
+--Optimized development and production builds using Vite.
+
+[![View Code](https://img.shields.io/badge/View%20Code-1f6feb?style=flat-square&logo=github)](https://github.com/Adarsh142006/SPYLT-web)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=render)](https://spyl.netlify.app)
 
 ---
-
-### 📊 Competitive Programming Analytics Platform
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `GraphQL` `JWT` `Tailwind CSS`
-
-Full-stack analytics platform tracking DSA progress, contest activity, ratings, consistency, and topic-wise performance across coding platforms.
-
-- LeetCode GraphQL + Codeforces API integration
-- MongoDB aggregation pipelines
-- Contest rating and consistency tracking
-- Topic-wise performance analytics
-- SM-2 spaced repetition for revision
-- JWT authentication
-
-[![View Code](https://img.shields.io/badge/View%20Code-1f6feb?style=flat-square&logo=github)](https://github.com/priyanshuguptacoder/LeetCode-Tracker)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=vercel)](https://competativeprogrammingtrackerpriyanshu.vercel.app/)
-
----
-
-
-
 ## 📊 GitHub Analytics
 
 <p align="center">

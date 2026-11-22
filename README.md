@@ -85,8 +85,8 @@ React Toastify – Notifications and toast messages.
 
 OGL – WebGL-based visual effects.
 
-[![View Code](https://img.shields.io/badge/View%20Code-1f6feb?style=flat-square&logo=github)](https://github.com/priyanshuguptacoder/Vingo-Food-Delivery-App)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=render)](https://vingo-food-delivery-app-1.onrender.com/)
+[![View Code](https://img.shields.io/badge/View%20Code-1f6feb?style=flat-square&logo=github)](https://github.com/Adarsh142006/Netflix-clone)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=render)](https://netfilx-clone-lucifer.netlify.app/)
 
 ---
 

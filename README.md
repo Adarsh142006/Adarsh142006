@@ -96,26 +96,42 @@ SmartBuild Hub is a web-based home construction management platform designed to 
 The platform helps homeowners submit construction requirements, explore design recommendations, connect with contractors, manage project budgets, and track construction progress.
 
 🛠️ Technologies Used
+
 --HTML5 – Structuring web pages and application content.
+
 --CSS3 – Styling and designing responsive interfaces.
+
 --JavaScript – Adding interactivity and dynamic functionality.
+
 --Bootstrap – Building responsive and mobile-friendly layouts.
+
 --Python – Backend programming and application logic.
+
 --Django – Backend web framework following the MVT architecture.
+
 --SQLite3 – Database management and data storage.
+
 --VS Code – Development environment.
+
 ✨ Key Features
 
 --Homeowner Module – User registration, login, project requirements, and project tracking.
+
 --Contractor Module – Contractor registration, project browsing, and proposal submission.
+
 --Admin Dashboard – Managing users, projects, proposals, and complaints.
+
 --Project Management – Monitoring construction budgets, timelines, and progress.
+
 --Task Management – Assigning and tracking construction-related tasks.\
+
 --Feedback System – Collecting homeowner ratings and feedback.
+
 --Service Requests – Managing service requests between homeowners and suppliers.
+
 --Design Visualization – Supporting architectural design and visualization data.\
-[![View Code](https://img.shields.io/badge/View%20Code-1f6feb?style=flat-square&logo=github)](https://github.com/priyanshuguptacoder/ExamNotesAI)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=render)](https://prepmind-ai-xpzl.onrender.com/)
+
+[![View Code](https://img.shields.io/badge/View%20Code-1f6feb?style=flat-square&logo=github)](https://github.com/Adarsh142006/Smart-build-hub)
 
 ---
 

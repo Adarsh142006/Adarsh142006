@@ -61,18 +61,29 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 
 ## 🚀 Featured Projects
 
-### 🍔 Netflix — movies streming platform 
+🎬 Netflix Clone
 
-**Tech:** `React.js` `Firebase` ``
+A modern Netflix-inspired streaming web application built using React and Tailwind CSS. This project focuses on recreating the Netflix user experience with a responsive interface, smooth animations, user authentication, and modern frontend technologies.
 
-Role-based platform for customers, restaurant owners, and delivery partners with restaurant discovery, cart management, ordering, payments, and order management.
+🛠️ Technologies Used
 
-- Real-time order tracking with **Socket.IO**
-- Location-based restaurant discovery
-- Razorpay payment verification
-- OTP-based delivery completion
-- Cloudinary media handling
-- Redux Toolkit state management
+React 19 – Building reusable UI components.
+
+Vite – Fast development and build tool.
+
+Tailwind CSS 4 – Responsive styling and modern UI design.
+
+Firebase – Backend services and authentication integration.
+
+React Router DOM – Client-side navigation and routing.
+
+GSAP – Smooth animations and interactive effects.
+
+Lucide React – Modern icons.
+
+React Toastify – Notifications and toast messages.
+
+OGL – WebGL-based visual effects.
 
 [![View Code](https://img.shields.io/badge/View%20Code-1f6feb?style=flat-square&logo=github)](https://github.com/priyanshuguptacoder/Vingo-Food-Delivery-App)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=render)](https://vingo-food-delivery-app-1.onrender.com/)

@@ -176,8 +176,8 @@ Spylt-Web is a modern and visually engaging web application built using React an
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="190" src="https://github-stats-extended.vercel.app/api?username=Adarsh Singh&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adarsh Singh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="190" src="https://github-stats-extended.vercel.app/api?username=Adarshsingh&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adarshsingh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
